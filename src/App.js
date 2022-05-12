@@ -7,6 +7,7 @@ import Login from "./Pages/Login/Login/Login";
 
 import Appointment from "./Pages/Appointment/Appointment";
 import Home from "./Pages/HomePage/Home/Home";
+import Footer from "./Pages/Shares/Footer";
 
 function App() {
   return (
